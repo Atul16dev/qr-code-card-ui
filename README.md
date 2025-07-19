@@ -17,7 +17,7 @@
 
 ## 🚀 Live Demo
 
-[Click Here to View Live Project](https://yourusername.github.io/qr-code-card-ui)
+[Click Here to View Live Project](https://atul16dev.github.io/qr-code-card-ui)
 
 ## 🛠️ Technologies Used
 
